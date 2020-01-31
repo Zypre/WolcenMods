@@ -6,10 +6,10 @@ Because of the way that the file editing works, you can only have 1 mod active a
 Most of the interesting stuff is in umbra.pak, which means you can realistically only have 1 active mod at a time.
 
 ##### Installation: 
-Put the file inside the steamapps/common folder, or put the contents of the Wolcen folder inside the base game folder, then run the game.
+Put the file inside the Wolcen/Game/ folder.
 
 ##### Uninstallation: 
-Delete the file and verify integrity of game files on Steam (or try to run the game after deleting. I think Steam fixes the game by itself)
+Delete the file and verify integrity of game files on Steam.
 
 ## Descriptions:
 
